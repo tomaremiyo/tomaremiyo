@@ -1,4 +1,10 @@
-## Hi there 👋
+## こんにちは 👋
+-現在取り組んでいるのは・・・自前サーバーの作成（古いデスクトップPCの再利用）
+-苦戦しているのは・・・・・・BBB導入に苦戦しています
+-現在学習中は・・・・・・・・Githubを学んでいます
+-助けてほしいこと・・・・・・Githubに公開されいてるBBBのコンテナイメージを実装する方法
+-独学、初心者ですが、よろしくお願いいたします。
+
 
 <!--
 **tomaremiyo/tomaremiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
