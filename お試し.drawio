@@ -31,6 +31,9 @@
         <mxCell id="CddNmIryClkawrRdUYQv-12" edge="1" parent="1" source="CddNmIryClkawrRdUYQv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CddNmIryClkawrRdUYQv-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CddNmIryClkawrRdUYQv-28" edge="1" parent="1" source="CddNmIryClkawrRdUYQv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CddNmIryClkawrRdUYQv-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CddNmIryClkawrRdUYQv-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="応需判断" vertex="1">
           <mxGeometry height="80" width="80" x="190" y="470" as="geometry" />
         </mxCell>
@@ -64,14 +67,29 @@
         <mxCell id="CddNmIryClkawrRdUYQv-19" parent="1" style="whiteSpace=wrap;html=1;" value="カルテ作成・受付" vertex="1">
           <mxGeometry height="60" width="120" x="-150" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="CddNmIryClkawrRdUYQv-24" edge="1" parent="1" source="CddNmIryClkawrRdUYQv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CddNmIryClkawrRdUYQv-23" value="">
+        <mxCell id="CddNmIryClkawrRdUYQv-26" edge="1" parent="1" source="CddNmIryClkawrRdUYQv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CddNmIryClkawrRdUYQv-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CddNmIryClkawrRdUYQv-21" parent="1" style="whiteSpace=wrap;html=1;" value="再来" vertex="1">
+        <mxCell id="CddNmIryClkawrRdUYQv-21" parent="1" style="whiteSpace=wrap;html=1;" value="類似名&lt;br&gt;同生年月日" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="CddNmIryClkawrRdUYQv-23" parent="1" style="whiteSpace=wrap;html=1;" value="受付" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="900" as="geometry" />
+        <mxCell id="CddNmIryClkawrRdUYQv-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="来院後受付" vertex="1">
+          <mxGeometry height="80" width="80" x="390" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="CddNmIryClkawrRdUYQv-30" edge="1" parent="1" source="CddNmIryClkawrRdUYQv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CddNmIryClkawrRdUYQv-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CddNmIryClkawrRdUYQv-27" parent="1" style="whiteSpace=wrap;html=1;" value="不応需" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CddNmIryClkawrRdUYQv-32" edge="1" parent="1" source="CddNmIryClkawrRdUYQv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CddNmIryClkawrRdUYQv-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CddNmIryClkawrRdUYQv-29" parent="1" style="whiteSpace=wrap;html=1;" value="不応需報告書" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="CddNmIryClkawrRdUYQv-31" parent="1" style="whiteSpace=wrap;html=1;" value="リーダーNsへ" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
